@@ -1,0 +1,103 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "react-native-webview-android",
+        "scope": null,
+        "escapedName": "react-native-webview-android",
+        "name": "react-native-webview-android",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "C:\\Users\\renatotn7\\Documents\\projetos\\NF\\CamerApp"
+    ]
+  ],
+  "_from": "react-native-webview-android@latest",
+  "_id": "react-native-webview-android@1.1.11",
+  "_inCache": true,
+  "_location": "/react-native-webview-android",
+  "_nodeVersion": "6.10.0",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/react-native-webview-android-1.1.11.tgz_1505390962124_0.4262690737377852"
+  },
+  "_npmUser": {
+    "name": "lucasferreira",
+    "email": "contato@lucasferreira.com"
+  },
+  "_npmVersion": "5.3.0",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "react-native-webview-android",
+    "scope": null,
+    "escapedName": "react-native-webview-android",
+    "name": "react-native-webview-android",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-webview-android/-/react-native-webview-android-1.1.11.tgz",
+  "_shasum": "780a78e477bb7fa54a0008a98b00020e84f2aa80",
+  "_shrinkwrap": null,
+  "_spec": "react-native-webview-android",
+  "_where": "C:\\Users\\renatotn7\\Documents\\projetos\\NF\\CamerApp",
+  "author": {
+    "name": "Lucas Ferreira",
+    "email": "contato@lucasferreira.com"
+  },
+  "bugs": {
+    "url": "https://github.com/lucasferreira/react-native-webview-android/issues"
+  },
+  "dependencies": {},
+  "description": "Simple React Native Android module to use Android's WebView inside your app",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "integrity": "sha512-0KoZb1rOiFmLU0ZcQcyWJWoRn/5FWlbKmbbES/23dGj8A8Y0KZVoZqev9zp/QttDziD1N659HHjULHhIis3SHA==",
+    "shasum": "780a78e477bb7fa54a0008a98b00020e84f2aa80",
+    "tarball": "https://registry.npmjs.org/react-native-webview-android/-/react-native-webview-android-1.1.11.tgz"
+  },
+  "gitHead": "9fd637c3674fd5ef41cb00ca600b7ce586f0c623",
+  "homepage": "https://github.com/lucasferreira/react-native-webview-android#readme",
+  "keywords": [
+    "react",
+    "react-native",
+    "react-component",
+    "web",
+    "webview",
+    "html",
+    "frame",
+    "iframe",
+    "embed",
+    "android",
+    "upload",
+    "files",
+    "input"
+  ],
+  "license": "MIT",
+  "main": "index",
+  "maintainers": [
+    {
+      "name": "lucasferreira",
+      "email": "contato@lucasferreira.com"
+    }
+  ],
+  "name": "react-native-webview-android",
+  "optionalDependencies": {},
+  "peerDependencies": {
+    "react-native": ">=0.26"
+  },
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucasferreira/react-native-webview-android.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.1.11"
+}
