@@ -125,7 +125,7 @@ class RNWebView extends WebView implements LifecycleEventListener {
             view.addJavascriptInterface(this.iface,"droid");
 			//https://mysterious-scrubland-83231.herokuapp.com/nfe.js
 			//view.loadUrl("javascript:(function() { var head = document.getElementsByTagName('head')[0];var sc = document.createElement(\"script\");sc.setAttribute(\"src\", \"https://mysterious-scrubland-83231.herokuapp.com/nfe.js\");sc.setAttribute(\"type\", \"text/javascript\");head.appendChild(sc);window.droid.print(" +1+ "); })();");
-            view.loadUrl("javascript:(function() { var head = document.getElementsByTagName('head')[0];var sc = document.createElement(\"script\");sc.setAttribute(\"src\", \"https://mysterious-scrubland-83231.herokuapp.com/nfe.js\");sc.setAttribute(\"type\", \"text/javascript\");head.appendChild(sc); })();");
+            view.loadUrl("javascript:(function() { window.usuario=\"renatotn7@gmail.com\"; var head = document.getElementsByTagName('head')[0];var sc = document.createElement(\"script\");sc.setAttribute(\"src\", \"https://mysterious-scrubland-83231.herokuapp.com/nfe.js\");sc.setAttribute(\"type\", \"text/javascript\");head.appendChild(sc); })();");
    /*    
     String ht =    "javascript:(function(){ window.droid.print(mapDOM(document.getElementsByTagName(\"div\")[3], true));\n" +
 "function mapDOM(element, json) {\n" +
